@@ -26,6 +26,6 @@
 - Commit that script with the format q<question number>_<team number>, for example for question 3.3 commit with the name q3_50.m .
 - Follow the given folder structure, place code inside code folder, results inside results folder, do not name separate folders for each question.
 - If these guidelines aren't met, you will receive penalties or those codes might not be evaluated.
-- The folders for codes and results are already created, just upload your codes and results in the respective folders in the same format as mentioned earlier. 
+- Create two folders named codes and results and upload your codes and results in the respective folders in the same format as mentioned earlier. 
 
  ## Deadline : 29/06/2021 by 11:59 PM
